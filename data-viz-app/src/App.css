@@ -1,0 +1,16 @@
+/* Center align the content of the App div */
+.App {
+  text-align: center;
+  padding: 20px;
+}
+
+/* Style for input elements and buttons */
+input, button {
+  margin: 10px;
+  padding: 5px;
+}
+
+/* Make the cursor a pointer when hovering over buttons */
+button {
+  cursor: pointer;
+}
